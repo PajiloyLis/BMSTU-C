@@ -1,0 +1,5 @@
+Enter value of x and value of precision
+Approximate value s(x): 0.001593
+Exact value f(x): 0.001150
+Absolute error: 0.000442
+Relative error: 0.277685

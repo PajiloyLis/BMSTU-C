@@ -1,0 +1,10 @@
+Enter the next element
+Enter the next element
+Enter the next element
+Enter the next element
+Enter the next element
+Enter the next element
+Enter the next element
+Enter the next element
+Enter the next element
+g(x): 2.625000

@@ -1,0 +1,5 @@
+Result:
+abcd yes
+dcba no
+asdf yes
+dsasd no

@@ -1,0 +1,5 @@
+strpbrk tests failed: 0
+strspn tests failed: 0
+strcspn tests failed: 0
+strchr tests failed: 0
+strrchr tests failed: 0

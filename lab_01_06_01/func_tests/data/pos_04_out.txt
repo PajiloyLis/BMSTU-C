@@ -1,0 +1,2 @@
+Enter the coordinates (x, y) of the first, second and third points
+square = 4941171866487.500000

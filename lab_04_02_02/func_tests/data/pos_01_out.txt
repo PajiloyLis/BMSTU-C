@@ -1,0 +1,4 @@
+Result:
+abcd yes
+ab yes
+cd yes

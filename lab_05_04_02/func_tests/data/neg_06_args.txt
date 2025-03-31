@@ -1,0 +1,1 @@
+sb ./func_tests/pos_01_in.bin bob alice

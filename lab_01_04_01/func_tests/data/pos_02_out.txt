@@ -1,0 +1,2 @@
+Entrace number is: 2
+Floor number is: 1

@@ -1,0 +1,15 @@
+Elephant
+5000
+3.15
+Teapot
+0.7
+0.00028
+Dumbbells
+6
+0.0007
+Algorithms T. H. Cormen
+1.818
+0.0025704
+something_for_25_symbols!
+1000000
+1000000

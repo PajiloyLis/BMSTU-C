@@ -1,0 +1,5 @@
+Enter value of x and value of precision
+Approximate value s(x): 0.000000
+Exact value f(x): 0.000000
+Absolute error: 0.000000
+Relative error: 0
